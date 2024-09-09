@@ -1,0 +1,2 @@
+# demir.com
+Subdomain Takeover
